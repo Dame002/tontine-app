@@ -111,10 +111,10 @@ export const Parametres = ({ onToast, photo, onPhotoChange }: Props) => {
         </div>
       </div>
 
-      <div className="text-center pb-2">
+      {/* <div className="text-center pb-2">
         <p className="text-xs font-black text-gray-300">tontine.app · v1.0 · React TypeScript + Vite</p>
         <p className="text-xs text-gray-300 mt-1">Fait avec soin pour l'Afrique</p>
-      </div>
+      </div> */}
 
       {/* ── Modals ── */}
       {section === "profil" && (
